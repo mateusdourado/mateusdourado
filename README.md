@@ -3,8 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mateusdourado&label=Profile%20views&color=0e75b6&style=flat" alt="mateusdourado" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me for more infos:</h3>
 <p align="left">
+  <a href="https://www.linkedin.com/in/mateus-dourado-de-oliveira-75a7a9169/" target="new">Linkedin</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
